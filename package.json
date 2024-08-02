@@ -1,0 +1,12 @@
+{
+  "name": "com.marc.testpackage",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "displayName": "Marc Testpackage",
+  "description": "Just a test package.",
+  "author": {
+	"name": "Marc Palenzuela",
+	"email": "marc@mokensleague.com",
+	"url": ""
+  }
+}
